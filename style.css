@@ -16,8 +16,10 @@ a{
 #header
 {
     background-image: linear-gradient(to top, #333, #525252 90%);
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
 	
-	padding: 20px;
     color: #fff;
 }
 
